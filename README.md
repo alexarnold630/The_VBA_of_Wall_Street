@@ -19,3 +19,6 @@ Create a script that will loop through all the stocks for one year and output th
 ![2016](images/2016.png)
 ![2015](images/2015.png)
 ![2014](images/2014.png)
+
+### Contact:
+Alex Arnold: alexnarnold630@gmail.com <br>
